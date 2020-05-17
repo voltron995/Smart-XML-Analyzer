@@ -2,7 +2,6 @@ import os
 import sys
 from fuzzywuzzy import fuzz
 from bs4 import BeautifulSoup
-from lxml import html, etree
 
 DEFAULT_TARGET_ID = "make-everything-ok-button"
 
